@@ -1,5 +1,5 @@
 const apiKey = '668ad104f91a86f05ca7d950093afe38';
-const apiBaseUrl = 'http://api.weatherstack.com/current';
+const apiBaseUrl = 'https://api.weatherstack.com/current';
 
 const locationElement = document.getElementById('location');
 const temperatureElement = document.getElementById('temperature');
